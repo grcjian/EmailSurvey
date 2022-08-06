@@ -6,11 +6,11 @@
   "engines": {
     "node": "12.16.3",
     "npm": "6.14.4"
-  }，
+  },
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tianyi Jian",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
